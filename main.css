@@ -1,0 +1,9 @@
+.center {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+button {
+    margin: 10px;
+}
